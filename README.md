@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Traffic_Crash_Analytics_and_Safety_Intelligence_Platform
-=======   
+
 Download “Traffic_CrashesData.csv” from this link https://drive.google.com/file/d/1jAFsxF8ri--wYC1A-8k_Otdlf8xfcODN/view?usp=sharing and save in your PC.  
 
 Requirement:  
@@ -27,4 +26,3 @@ Open "Traffic_Crash_Analysis.py" file
 - Open New Terminal in VS Code.  
 - Go to your file path of "Traffic_Crash_Analysis.py" in terminal.  
 - Enter this command "streamlit run Traffic_Crash_Analysis.py" and press Enter key. Streamlit app will open in your browser.  
->>>>>>> f3eff27 (Created Traffic Crash Analytics project)
